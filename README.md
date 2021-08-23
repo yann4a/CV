@@ -14,4 +14,4 @@
   <p><b>WORK EXPERIENCE</b><br>
       <b>2021 - Present</b>  SMART HIRING PRO <br> IT- Recruiter</p>
 </div>
-<p><b>2020-2021</b>HTML CSS JS Courses</p>
+<p><b>2020-2021</b> HTML CSS JS Courses</p>
