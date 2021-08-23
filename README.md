@@ -11,7 +11,7 @@
 </div> 
 
 <div>
-  <p> <b> WORK EXPERIENCE </b>
+  <p> <b> WORK EXPERIENCE </b> <br>
       2021 - Present  SMART HIRING PRO <br> IT- Recruiter </p>
 </div>
-
+<p> <b> 2020-2021 </b> HTML CSS JS Course  </p>
