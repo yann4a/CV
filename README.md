@@ -1,3 +1,4 @@
+![Chinova_foto1](https://user-images.githubusercontent.com/66442208/130430568-92fe8c7e-93b4-494a-aad1-ad6145952cba.jpg)
 # resume
-https://github.com/yann4a/resume/blob/main/Chinova_foto1.jpg
-![][Chinova_foto1.jpg]
+
+![photo](Chinova_foto1.jpg)
