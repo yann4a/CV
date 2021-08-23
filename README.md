@@ -1,8 +1,7 @@
 
 # IT-recruiter
 
-<div style="display: flex;"
-> 
+<div class='flex'> 
   
 <!-- ![](Chinova_foto1.jpg) -->
   <img src="Chinova_foto1.jpg" alt="photo" width="200"/>
@@ -12,3 +11,8 @@
     <p> yann4ach@gmail.com </p>
   </div>
 </div>
+<style>
+  .flex {
+     display: flex;
+  }
+</style>
