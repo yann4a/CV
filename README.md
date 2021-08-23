@@ -5,8 +5,8 @@
 <!-- ![](Chinova_foto1.jpg) -->
   <img src="Chinova_foto1.jpg" alt="photo" width="200"/>
   <ul> 
-    <li><b>+ 7 904 9 88 99 00</b></li>
-    <li><b>yann4ach@gmail.com</b>
+    <li><a href="tel:+79049889900">+ 7 904 9 88 99 00</ a></li>
+    <li><a href="mailto:yann4ach@gmail.com">yann4ach@gmail.com</a></b>
   </ul>
 </div> 
 
