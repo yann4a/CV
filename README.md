@@ -15,3 +15,6 @@
       <b>2021 - Present</b>  SMART HIRING PRO <br> IT- Recruiter</p>
 </div>
 <p><b>2020-2021</b> HTML CSS JS Courses</p>
+<p>2010-2021 Accountant customer relationship  </p>
+
+<p><b>EDUCANION </b><br>
