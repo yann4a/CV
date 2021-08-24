@@ -17,5 +17,5 @@
   <p><b>COURSES</b><br>
   <p><b>2020-2021</b> HTML CSS JS</p>
   <p><b>EDUCATION</b><br>
-  <p>2005-2010 Ural State University of Economics<br>finance department</p>  
+  <p></b>2005-2010 </b>Ural State University of Economics<br>Finance department</p>  
 </div>
