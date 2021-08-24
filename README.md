@@ -14,7 +14,7 @@
   <p><b>WORK EXPERIENCE</b><br>
   <b>2021 - Present</b>  SMART HIRING PRO <br> IT- Recruiter</p>
   <p>Searching, interviewing, leading and supporting the candidate,<br>communicating with the client throughout the recruitment process</p>
-  <p><b>2010-2021</b> Accountant customer relationship</p>
+  <p><b>2010-2021</b> Accountant</p>
   <p>Communication with customers, suppliers, employees, dealing with banks, solving various complex problems</p>
   <p><b>COURSES</b><br>
   <p><b>2020-2021</b> HTML CSS JS</p>
